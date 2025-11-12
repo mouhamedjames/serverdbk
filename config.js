@@ -3,7 +3,7 @@ module.exports = {
     // Telegram Bot Configuration
     telegram: {
         botToken: '8449049196:AAHaIH6790c4IU0JyWuc1cIikWgA7d4qbog',
-        chatId: '-5090216212'
+        chatId: '-5094572031'
     },
     
     // News API Configuration
