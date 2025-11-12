@@ -2,7 +2,7 @@
 module.exports = {
     // Telegram Bot Configuration
     telegram: {
-        botToken: '8061476289:AAGEmWNmYJkZ71nWQV43Qn6c0zMrfA4LMlI',
+        botToken: '8449049196:AAHaIH6790c4IU0JyWuc1cIikWgA7d4qbog',
         chatId: '-5090216212'
     },
     
